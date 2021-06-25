@@ -1,7 +1,7 @@
 ## Hello, my friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Greetings, my name is **Efstathios Iosifidis**, people call me **Stathis**.  
-I'm veterinarian and lately I'm applied informatics student at [University of Macedonia](https://www.uom.gr/dai).  
+I'm veterinarian. I'm student at [University of Macedonia - Applied Informatics](https://www.uom.gr/dai).  
 I'm an open-source evangelist from <img src="https://boobalar.net/greece.svg" width="16px"> Greece, living in Thessaloniki.  
 
 ## ⚡ Focus
