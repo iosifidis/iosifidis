@@ -15,8 +15,8 @@ I'm an open-source evangelist from <img src="https://boobalar.net/greece.svg" wi
 ## 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eiosifidis/)](https://www.linkedin.com/in/eiosifidis/)
-[![Youtube Badge](https://img.shields.io/badge/-PeerTube-darkred?style=flat-square&logo=peertube&logoColor=white&link=https://video.boobalar.net/accounts/drpaneas/video-channels)](https://www.youtube.com/channel/UCVig1YKl-BgxvNxIwnpSlYg)
-[![Instagram Badge](https://img.shields.io/badge/-@e.iosifidis:boobalar.net-darkgreen?style=flat-square&logo=matrix&logoColor=black&link=@e.iosifidis:boobalar.net)](https://www.instagram.com/e.iosifidis/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVig1YKl-BgxvNxIwnpSlYg)](https://www.youtube.com/channel/UCVig1YKl-BgxvNxIwnpSlYg)
+[![Instagram Badge](https://img.shields.io/badge/-@e.iosifidi-darkgreen?style=flat-square&logo=instagram&logoColor=black&link=@e.iosifidis:boobalar.net)](https://www.instagram.com/e.iosifidis/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eiosifidis?style=social)](https://twitter.com/eiosifidis)
 
 <!--
