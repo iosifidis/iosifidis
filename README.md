@@ -1,8 +1,13 @@
-## Hello, my friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Greetings, my name is **Efstathios Iosifidis**, people call me **Stathis**.  
-I'm veterinarian. I'm student at [University of Macedonia - Applied Informatics](https://www.uom.gr/dai).  
-I'm an open-source evangelist from <img src="https://boobalar.net/greece.svg" width="16px"> Greece, living in Thessaloniki.  
+- 🐶I'm veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)    
+- Currently i'm 🎓studying at [University of Macedonia - Applied Informatics](https://www.uom.gr/dai).  
+- I'm an 💻open-source evangelist from 🇬🇷Greece, living in Thessaloniki.  
+- ☁️Cloud enthusiast
+- Write human-readable code 
+- 💭Problem solving abilities 
+- Excellent team player since I'm in open source comminities building
 
 ## ⚡ Focus
 
@@ -10,7 +15,9 @@ I'm an open-source evangelist from <img src="https://boobalar.net/greece.svg" wi
 * [GNOME](https://gnome.org)  
 * [GNUHealth](https://www.gnuhealth.org/)  
 * [Nextcloud](https://nextcloud.com)
-
+* [ONLYOFFICE](https://www.onlyoffice.com/)  
+* [ownCloud](https://owncloud.com/)  
+* [Gitkraken](https://gitkraken.link/iosifidis)
 
 ## 📫 How to reach me
 
@@ -32,4 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Template from: https://github.com/anuraghazra/github-readme-stats 
 -->
