@@ -1,4 +1,4 @@
-## Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
+## Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 Greetings, my name is **Efstathios Iosifidis**, people call me **Stathis**.  
 - 🐶I'm veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)    
