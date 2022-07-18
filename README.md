@@ -1,6 +1,8 @@
 ## Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Greetings, my name is **Efstathios Iosifidis**, people call me **Stathis**.  
+Greetings, my name is **Efstathios Iosifidis**, everyone call me **Stathis**. 
+Hola mi amigos Espanol. Me llamo Eustathios, y soy veterinario.  
+
 - 🐶I'm veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)    
 - Currently i'm 🎓studying at [University of Macedonia - Applied Informatics](https://www.uom.gr/dai).  
 - 💻Open-source evangelist from 🇬🇷Greece, living in Thessaloniki.  
