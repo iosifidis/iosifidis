@@ -10,7 +10,8 @@ Hola mi amigos Espanol. Me llamo Eustathios, y soy veterinario.
 - Write human-readable code 
 - 💭Problem solving abilities 
 - Excellent team player  
-- Open source comminity manager  
+- Open source comminity management   
+- LOVE project management     
 
 ## ⚡ Focus
 
