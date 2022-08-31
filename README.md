@@ -3,22 +3,24 @@
 Greetings, my name is **Efstathios Iosifidis**, everyone call me **Stathis**.   
 Hola mi amigos Espanol. Me llamo Eustathios, y soy veterinario.  
 
-- 🐶I'm veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)    
-- Currently i'm 🎓studying at [University of Macedonia - Applied Informatics](https://www.uom.gr/dai).  
+- 🐶Veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)    
+- Currently 🎓studying at [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai).  
 - 💻Open-source evangelist from 🇬🇷Greece, living in Thessaloniki.  
 - ☁️Cloud enthusiast
 - Write human-readable code 
 - 💭Problem solving abilities 
-- Excellent team player since I'm in open source comminities building
+- Excellent team player  
+- Open source comminity manager  
 
 ## ⚡ Focus
 
 * [openSUSE](https://opensuse.org)  
+* [Fedora](https://getfedora.org/en/)   
 * [GNOME](https://gnome.org)  
 * [GNUHealth](https://www.gnuhealth.org/)  
+* [ownCloud](https://owncloud.com/)  
 * [Nextcloud](https://nextcloud.com)
 * [ONLYOFFICE](https://www.onlyoffice.com/)  
-* [ownCloud](https://owncloud.com/)  
 * [Gitkraken](https://gitkraken.link/iosifidis)
 
 ## 📫 How to reach me
