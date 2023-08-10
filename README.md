@@ -17,7 +17,7 @@ Hola mi amigos Espanol. Me llamo Eustathios, y soy veterinario.
 
 * [openSUSE](https://opensuse.org)  
 * [Fedora](https://getfedora.org/en/) 
-* [Ubuntu]([https://ubuntu.com/))   
+* [Ubuntu]([https://ubuntu.com/)   
 * [GNOME](https://gnome.org)  
 * [GNUHealth](https://www.gnuhealth.org/)  
 * [ownCloud](https://owncloud.com/)  
