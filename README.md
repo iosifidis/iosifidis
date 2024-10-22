@@ -1,46 +1,48 @@
-## Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## 💫 About Me:
 
-Greetings, my name is **Efstathios Iosifidis**, everyone call me **Stathis**.   
-Hola mi amigos Espanol. Me llamo Eustathios, y soy veterinario.  
+Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-- 🐶Veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)    
-- Currently 🎓studying at [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai).  
-- 💻Open-source evangelist from 🇬🇷Greece, living in Thessaloniki.  
-- ☁️Cloud enthusiast
+My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.   
+
+- 🐶 Veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)    
+- Currently 🎓 studying Software development and cloud at the [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai).  
+- 💻 Open-source evangelist from 🇬🇷Greece, living in Thessaloniki.  
+- ☁️ Cloud enthusiast
 - Write human-readable code 
-- 💭Problem solving abilities 
+- 💭 Problem solving abilities 
 - Excellent team player  
-- Open source comminity management   
+- Open source community management   
 - LOVE project management     
-
-## ⚡ Focus
-
-* [openSUSE](https://opensuse.org)  
-* [Fedora](https://getfedora.org/en/) 
-* [Ubuntu](https://ubuntu.com/)   
-* [GNOME](https://gnome.org)  
-* [GNUHealth](https://www.gnuhealth.org/)  
-* [ownCloud](https://owncloud.com/)  
-* [Nextcloud](https://nextcloud.com)
-* [ONLYOFFICE](https://www.onlyoffice.com/)  
-* [Gitkraken](https://gitkraken.link/iosifidis)
 
 ## 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eiosifidis/)](https://www.linkedin.com/in/eiosifidis/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/EfstathiosIosifidis)](https://www.youtube.com/c/EfstathiosIosifidis)
 [![Instagram Badge](https://img.shields.io/badge/-@e.iosifidis-ff69b4?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/e.iosifidis/)](https://www.instagram.com/e.iosifidis/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/eiosifidis?style=social)](https://twitter.com/eiosifidis)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nexteiosifidis)
 
 
 <hr>
-<img height="200em" width="410vw" src="http://github-readme-streak-stats.herokuapp.com?user=iosifidis&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"> <br>
+🔝 Top Contributed Repo<br><br>
+
+![](https://github-contributor-stats.vercel.app/api?username=iosifidis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 📊 GitHub Stats:
+
 <img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"> <br>
+<img height="200em" width="410vw" src="http://github-readme-streak-stats.herokuapp.com?user=iosifidis&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"> <br>
 <img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs">
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iosifidis" alt="iosifidis" /></a> </p>
+🏆 GitHub Trophies<br><br>
+![](https://github-profile-trophy.vercel.app/?username=iosifidis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<hr>
+
+💰 You can help me by Donating<br><br>
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/eiosifidis) 
 
 <!--
 **iosifidis/iosifidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
