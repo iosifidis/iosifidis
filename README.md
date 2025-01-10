@@ -29,7 +29,7 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 # 📊 GitHub Stats:
 
-<img height="200em" width="410vw" src="https://streak-stats.demolab.com?user=iosifidis&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=iosifidis&theme=dark&hide_border=true&card_width=410&card_height=200" alt="GitHub Streak" />
     
 <img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats">
     
