@@ -31,8 +31,9 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 <table>
   <tr>
+    <td><img height="200em" width="410em" src="https://github-contributor-stats.vercel.app/api?username=iosifidis&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top-langs"></td>
     <td><img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"></td>
-    <td><img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
+    <td><img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
   </tr>
 </table>
 
