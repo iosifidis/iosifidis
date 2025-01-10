@@ -29,13 +29,7 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td><img height="200em" width="410vw" src="https://github-readme-streak-stats.herokuapp.com/?user=iosifidis&theme=dark&hide_border=true" alt="stats"></td>
-    <td><img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"></td>
-    <td><img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
-  </tr>
-</table>
+| ![iosifidis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iosifidis&theme=dark&hide_border=true) | ![iosifidis's Stats](https://github-readme-stats.vercel.app/api?username=iosifidis&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![iosifidis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosifidis&theme=dark&show_icons=true&hide_border=true&layout=compact) |
 
 <!--
 <img height="200em" width="410vw" src="https://streak-stats.demolab.com?user=iosifidis&theme=dark&hide_border=true" alt="GitHub Streak" />
