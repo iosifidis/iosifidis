@@ -31,7 +31,7 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 <table>
   <tr>
-    <td><img height="200em" width="410vw" src="http://github-readme-streak-stats.herokuapp.com?user=iosifidis&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></td>
+    <td><<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosifidis&theme=dark" alt="GitHub Streak" /></a></td>
     <td><img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"></td>
     <td><img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
   </tr>
