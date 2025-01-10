@@ -21,11 +21,7 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 [![Instagram Badge](https://img.shields.io/badge/-@e.iosifidis-ff69b4?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/e.iosifidis/)](https://www.instagram.com/e.iosifidis/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nexteiosifidis)
 
-
 <hr>
-🔝 Top Contributed Repo<br><br>
-
-![](https://github-contributor-stats.vercel.app/api?username=iosifidis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
 
@@ -38,6 +34,11 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 </table>
 
 <!--
+
+🔝 Top Contributed Repo<br><br>
+
+![](https://github-contributor-stats.vercel.app/api?username=iosifidis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <img height="200em" width="410vw" src="https://streak-stats.demolab.com?user=iosifidis&theme=dark&hide_border=true" alt="GitHub Streak" />
     
 <img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats">
