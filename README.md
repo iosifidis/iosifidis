@@ -4,7 +4,7 @@ Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master
 
 My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
-- Solutions Architect | Cloud & Systems Engineer | Digital Transformation Engineer | Open Source Advocate 
+- Solutions Architect | Cloud & Systems Engineer | Digital Transformation Engineer | Open Source Advocate
 - 🐶 Veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)
 - Currently 🎓 studying [Software development and cloud](https://www.uom.gr/en/mai) at the [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai).
 - 💻 Open-source evangelist from 🇬🇷Greece, living in Thessaloniki.
@@ -55,14 +55,12 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 # Play my games
 
-| Game | Link |
-|------------------|----------|
-| Cubestory | [Play here](https://iosifidis.github.io/cubestory) |
-| Firebobbler | [Play here](https://iosifidis.github.io/firebobbler) |
-| Popbubble | [Play here](https://iosifidis.github.io/popbubble) |
-| Sweet Match 3 | [Play here](https://iosifidis.github.io/sweet-match3) |
-| Tic tac toe | [Play here](https://iosifidis.github.io/tictactoe) |
-| Breakanoid Deluxe | [Play here](https://iosifidis.github.io/breakanoid-deluxe) |
+| Game              | Link                                                        |
+| ----------------- | ----------------------------------------------------------- |
+| Firebobbler       | [Play here](https://iosifidis.github.io/firebobbler)        |
+| Popbubble         | [Play here](https://iosifidis.github.io/popbubble)          |
+| Sweet Match 3     | [Play here](https://iosifidis.github.io/sweet-match3)       |
+| Tic tac toe       | [Play here](https://iosifidis.github.io/tictactoe)          |
 | Asteroids Crusher | [Play here](https://iosifidis.github.io/asteroids-crusher/) |
 
 <hr>
