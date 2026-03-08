@@ -57,6 +57,7 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 | Game              | Link                                                        |
 | ----------------- | ----------------------------------------------------------- |
+| MindBloom       | [Play here](https://ihopewecanchangeitlater.github.io/SG-Final-Project/)        |
 | Firebobbler       | [Play here](https://iosifidis.github.io/firebobbler)        |
 | Popbubble         | [Play here](https://iosifidis.github.io/popbubble)          |
 | Sweet Match 3     | [Play here](https://iosifidis.github.io/sweet-match3)       |
