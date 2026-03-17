@@ -28,12 +28,14 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 <table>
   <tr>
-    <td><img height="200em" width="410em" src="https://github-contrib-stats.vercel.app/iosifidis/created.svg" alt="Repos Created by iosifidis"></td>
-    <td><img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"></td>
-    <td><img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
+    <td><img height="400em" width="410em" src="https://github-contrib-stats.vercel.app/iosifidis/created.svg" alt="Repos Created by iosifidis"></td>
+    <td><img height="400em" width="410em" src="https://github-contrib-stats.vercel.app/iosifidis/contributed.svg" alt="Repos iosifidis Contributed To"></td>
+  </tr>
+  <tr>
+    <td><img height="400em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"></td>
+    <td><img height="400em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
   </tr>
 </table>
-![Repos I contributed to](https://github-contrib-stats.vercel.app/iosifidis/contributed.svg)
 <!--
 
 🔝 Top Contributed Repo<br><br>
