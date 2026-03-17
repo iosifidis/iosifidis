@@ -28,12 +28,12 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
 <table>
   <tr>
-    <td><img height="200em" width="410em" src="https://github-contributor-stats.vercel.app/api?username=iosifidis&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top-langs"></td>
+    <td><img height="200em" width="410em" src="https://github-contrib-stats.vercel.app/iosifidis/created.svg" alt="Repos Created by iosifidis"></td>
     <td><img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=iosifidis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"></td>
     <td><img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iosifidis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
   </tr>
 </table>
-
+![Repos I contributed to](https://github-contrib-stats.vercel.app/iosifidis/contributed.svg)
 <!--
 
 🔝 Top Contributed Repo<br><br>
@@ -49,7 +49,7 @@ My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 <hr>
 
 🏆 GitHub Trophies<br><br>
-![](https://github-profile-trophy.vercel.app/?username=iosifidis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://trophy.ryglcloud.net/?username=iosifidis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
 
