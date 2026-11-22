@@ -4,7 +4,7 @@ Hello, friend <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master
 
 My name is **Efstathios Iosifidis**, and everyone calls me **Stathis**.
 
-- Lead Infrastructure Automation Architect | Cloud & Systems Engineer | IT Systems Analyst | Digital Transformation Engineer | Open Source Advocate
+- Senior Site Reliability Engineer (SRE) | DevOps Engineer | IT Systems Analyst | Digital Transformation Engineer | Open Source Advocate
 - 🐶 Veterinarian. Graduated from [Aristotele University of Thessaloniki](https://www.vet.auth.gr/en/)
 - 🎓 MSc in [Software development and cloud](https://www.uom.gr/en/mai) from [University of Macedonia - Applied Informatics](https://www.uom.gr/en/dai).
 - 💻 Open-source evangelist from 🇬🇷Greece, living in Thessaloniki.
